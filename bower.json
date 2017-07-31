@@ -1,0 +1,22 @@
+{
+  "name": "super-resete-css",
+  "homepage": "https://github.com/antony999k/SuperResete.css",
+  "authors": [
+    "antony999k <lv999k@hotmail.com>"
+  ],
+  "description": "SuperResete.css removes and normalize the annoying css elements in all browsers",
+  "main": "superResete.css",
+  "license": "MIT",
+  "ignore": [
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "package.json",
+    "README.md",
+    "test.html"
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

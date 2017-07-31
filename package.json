@@ -1,0 +1,23 @@
+{
+  "name": "super-resete-css",
+  "version": "1.0.0",
+  "description": "SuperResete.css removes and normalize the annoying css elements in all browsers",
+  "main": "superResete.css",
+  "scripts": {
+    "test": "stylelint superResete.css"
+  },
+  "files": [
+    "LICENSE.md",
+    "superResete.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antony999k/SuperResete.css.git"
+  },
+  "author": "antony999k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antony999k/SuperResete.css/issues"
+  },
+  "homepage": "https://github.com/antony999k/SuperResete.css#readme"
+}
