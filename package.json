@@ -2,18 +2,29 @@
   "name": "super-reset-css",
   "version": "1.0.3",
   "description": "super-reset.css removes and normalize the annoying css elements in all browsers",
-  "main": "superResete.css",
+  "main": "super-reset.css",
   "scripts": {
-    "test": "stylelint super-resete.css"
+    "test": "stylelint super-reset.css"
   },
-  "files": [
-    "LICENSE.md",
-    "superResete.css"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/antony999k/super-reset.css.git"
   },
+  "files": [
+    "LICENSE.md",
+    "super-reset.css",
+    "super-reset.min.css",
+    "super-reset.scss",
+    "super-reset.sass"
+  ],
+  "keywords": [
+    "css",
+    "sass",
+    "scss",
+    "stylesheet",
+    "reset",
+    "html-reset"
+  ],
   "author": "antony999k",
   "license": "MIT",
   "bugs": {
