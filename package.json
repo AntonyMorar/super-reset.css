@@ -1,6 +1,6 @@
 {
   "name": "super-reset-css",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "super-reset.css removes and normalize the annoying css elements in all browsers",
   "main": "super-reset.css",
   "scripts": {
