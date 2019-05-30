@@ -1,7 +1,7 @@
 # super-reset.css
 > super-reset.css removes the initial css elements in all browsers
 
-[![version](https://img.shields.io/badge/version-1.0.4-ff69b4.svg)]()
+[![version](https://img.shields.io/badge/version-1.0.5-ff69b4.svg)]()
 [![license](https://img.shields.io/badge/licence-MIT%20Licence-ff69b4.svg)]()
 
 **NPM**
@@ -26,6 +26,14 @@ yarn add super-reset-css
     </head>
     ```
 
+# Use in Angular
+In the `angular.json` file insert the css source file in the `styles` array:
+    ```json
+    "styles": [
+        "src/styles.css",
+        "node_modules/super-reset-css/super-reset.min.css"
+    ],
+    ```
 
 ## Overview
 * Normalize some css elements
