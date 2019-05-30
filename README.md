@@ -7,13 +7,13 @@
 **NPM**
 
 ```sh
-npm install --save super-resete-css
+npm install --save super-reset-css
 ```
 
 **Bower**
 
 ```sh
-bower install --save super-resete-css
+bower install --save super-reset-css
 ```
 
 ## Overview
